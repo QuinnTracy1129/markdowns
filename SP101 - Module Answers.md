@@ -2116,7 +2116,53 @@ Discuss measures that can be taken to reduce piracy.</i>
 
 5.  Who Governs the Internet
 
-    <i><b>Activity:</b> Create a flowchart or diagram illustrating the key players in internet governance and their roles. Discuss how their interactions influence internet policies and practices.</i>
+    <i><b>Activity:</b> Create a flowchart or diagram illustrating the key players in internet governance and their roles. Discuss how their interactions influence internet policies and practices.</i>    
+
+    * **Key Players and Their Roles**
+
+      1. **Governments**:
+          
+          - Develop and enforce national policies, regulations, and laws related to internet usage, cybersecurity, data protection, and content regulation.
+          
+          - Influence global internet governance policies through international discussions and agreements.
+
+      2. **Intergovernmental Organizations**:
+          
+          - Facilitate international cooperation and establish global standards and policies (e.g., ITU, ICANN).
+          
+          - Set global standards for internet infrastructure, domain names, and international agreements.
+
+      3. **Private Sector**:
+          
+          - Provide internet services, develop technology, and manage infrastructure (e.g., ISPs, technology companies).
+          
+          - Influence internet policies through lobbying, partnerships, and industry groups.
+
+      4. **Civil Society**:
+          
+          - Advocate for user rights, privacy, and digital inclusion (e.g., advocacy groups, NGOs).
+   
+          - Influence policy through advocacy, public campaigns, and participation in policy discussions.
+
+      5. **Technical Community**:
+          
+          - Develop and implement technical standards and protocols (e.g., engineers, researchers).
+   
+          - Ensure internet functionality, interoperability, and address technical challenges.
+
+    * **Interactions and Influence**
+
+      - **Governments and Intergovernmental Organizations**: Work together to align national policies with international standards.
+
+      - **Private Sector and Technical Community**: Collaborate to incorporate technological advancements into internet practices.
+
+      - **Governments and Civil Society**: Civil society advocates for changes in regulations and practices affecting user rights.
+
+      - **Private Sector and Civil Society**: Civil society advocacy can lead to changes in private sector practices.
+
+      - **Technical Community and All Other Players**: Develop standards and protocols that impact how policies are implemented and how the internet functions.
+
+    <br />
 
     <i><b>Flowchart:</b> Key Players in Internet Governance and Their Roles</i>
   
@@ -2141,33 +2187,313 @@ Discuss measures that can be taken to reduce piracy.</i>
 | (Advocacy Groups, NGOs, Users) |                  |   (Engineers, Researchers)  |
 +--------------------------------+                  +-----------------------------+
 ```
+<br />
+<br />
+<br />
 
-    **Key Players and Their Roles**
+### Social Context of Computing
 
-1. **Governments**:
-   - Develop and enforce national policies, regulations, and laws related to internet usage, cybersecurity, data protection, and content regulation.
-   - Influence global internet governance policies through international discussions and agreements.
+1. Introduction to the Social Implications of Computing
 
-2. **Intergovernmental Organizations**:
-   - Facilitate international cooperation and establish global standards and policies (e.g., ITU, ICANN).
-   - Set global standards for internet infrastructure, domain names, and international agreements.
+    <i><b>Activity:</b> Write a reflective essay on a recent technological advancement and its potential social implications. Consider both positive and negative impacts on society.</i>
 
-3. **Private Sector**:
-   - Provide internet services, develop technology, and manage infrastructure (e.g., ISPs, technology companies).
-   - Influence internet policies through lobbying, partnerships, and industry groups.
+    <i><b>Reflective Essay:</b> The Rise of Generative AI and Its Social Implications</i>
 
-4. **Civil Society**:
-   - Advocate for user rights, privacy, and digital inclusion (e.g., advocacy groups, NGOs).
-   - Influence policy through advocacy, public campaigns, and participation in policy discussions.
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In recent years, generative AI has emerged as one of the most transformative technological advancements. These systems, capable of producing text, images, music, and even complex data sets, have the potential to revolutionize various aspects of our society. While the advancements in generative AI promise numerous benefits, they also present significant challenges and risks. This essay explores the dual-edged impact of generative AI on society, analyzing both its positive and negative implications.
+    >
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Generative AI tools, such as GPT-4 and DALL-E, have opened new avenues for creativity and innovation. Artists, writers, and designers are leveraging these tools to explore creative possibilities that were previously unimaginable. For instance, generative AI can assist in generating novel ideas for art and literature, producing high-quality content quickly, and offering new forms of expression. This democratization of creativity allows individuals with varying levels of skill to produce professional-grade work and can lead to a flourishing of new artistic genres and styles.
+    >
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moreover, generative AI has the potential to significantly improve productivity across various sectors. In fields such as content creation, marketing, and research, AI can automate repetitive tasks, generate detailed reports, and provide insights based on vast amounts of data. For businesses, this translates to reduced time spent on mundane tasks and a focus on higher-level strategic work. Furthermore, AI-driven tools can streamline design processes, reduce costs, and accelerate time-to-market for new products and services.
+    >
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In education, generative AI offers the possibility of personalized learning experiences and enhanced support for students. AI-powered tutoring systems can adapt to individual learning styles and offer targeted feedback, which helps students understand complex subjects more effectively. Additionally, AI can create simulations and virtual environments for training purposes, providing hands-on experiences that enhance learning outcomes. This personalized approach has the potential to address educational disparities and make high-quality education more accessible.
+    >
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However, despite its benefits, generative AI raises significant ethical and privacy concerns. The ability of these systems to create realistic but fake content can lead to the spread of misinformation and fake news. Deepfakes, for example, can be used to manipulate public opinion and undermine trust in media. Furthermore, the data used to train generative AI systems often includes sensitive or personal information, raising questions about data privacy and the potential for misuse. Ensuring transparency and protecting individual privacy are critical challenges that need to be addressed.
+    >
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another major concern is job displacement and economic disruption. The automation capabilities of generative AI can lead to job losses, particularly in industries where repetitive and routine tasks are prevalent. While AI can enhance productivity, it may also render certain roles obsolete, leading to economic disruption and unemployment. Workers in affected sectors may struggle to transition to new roles, especially if they lack the necessary skills for emerging job opportunities. Addressing these challenges requires proactive measures, such as reskilling programs and support for affected individuals.
+    >
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As generative AI tools become more integrated into various aspects of work and daily life, there is also a risk of over-reliance on these systems. This dependence may lead to a reduction in critical thinking and problem-solving skills, as individuals might become accustomed to relying on AI for answers and solutions. Additionally, the ease of generating content and solutions could result in the de-skilling of professions that require specialized expertise and human judgment. Balancing the use of AI with the preservation of essential skills is crucial for maintaining a well-rounded workforce.
+    >
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In conclusion, generative AI represents a significant technological advancement with profound social implications. Its potential to enhance creativity, improve productivity, and transform education is undeniable. However, it also poses challenges related to ethics, privacy, job displacement, and skill degradation. As society continues to integrate generative AI into various domains, it is essential to approach these advancements with a balanced perspective, addressing the risks while harnessing the benefits. Ongoing dialogue, regulation, and innovation will play key roles in shaping a future where generative AI contributes positively to society while mitigating its potential drawbacks.
 
-5. **Technical Community**:
-   - Develop and implement technical standards and protocols (e.g., engineers, researchers).
-   - Ensure internet functionality, interoperability, and address technical challenges.
+<br />
 
-### Interactions and Influence
+2.  Social Implications of Networked Communication
 
-- **Governments and Intergovernmental Organizations**: Work together to align national policies with international standards.
-- **Private Sector and Technical Community**: Collaborate to incorporate technological advancements into internet practices.
-- **Governments and Civil Society**: Civil society advocates for changes in regulations and practices affecting user rights.
-- **Private Sector and Civil Society**: Civil society advocacy can lead to changes in private sector practices.
-- **Technical Community and All Other Players**: Develop standards and protocols that impact how policies are implemented and how the internet functions.
+    <i><b>Activity:</b> Analyze a case study of a social media platform and its impact on a specific social issue. Discuss how the platform influences public opinion and community engagement.</i>
+
+    <i><b>Case Study:</b> Facebook and Its Impact on Political Polarization</i>
+
+    * **Introduction**
+
+        >Facebook, as one of the most widely used social media platforms globally, has had a profound impact on various social issues, including political polarization. This case study explores how Facebook has influenced public opinion and community engagement concerning political divisions. By examining the platform's mechanisms and effects, we can better understand its role in shaping modern political discourse and social dynamics.
+
+    * **Background**
+
+        >Political polarization refers to the growing ideological divide between political parties and their supporters. In recent years, there has been increasing concern about how social media platforms, particularly Facebook, contribute to this phenomenon. Facebook’s algorithms and features, such as personalized news feeds and targeted advertisements, play a significant role in shaping users’ political views and interactions.
+
+    * **Influence on Public Opinion**
+
+        1. Algorithmic Filtering and Echo Chambers
+
+            >Facebook’s algorithm prioritizes content that aligns with users' interests and previous interactions. This filtering mechanism can create "echo chambers" where users are primarily exposed to information that reinforces their existing beliefs. Research has shown that this selective exposure can intensify political polarization by isolating users from diverse perspectives and increasing confirmation bias.
+
+        2. Targeted Political Advertising
+
+            >Facebook allows political campaigns to target ads based on users' demographic information, interests, and online behavior. This capability has been used to tailor political messages to specific voter segments, which can amplify divisive issues and reinforce partisan divides. The use of micro-targeting in political advertising has been criticized for its potential to manipulate public opinion and exacerbate political polarization.
+
+        3. Disinformation and Fake News
+
+            >The spread of disinformation and fake news on Facebook has been a significant factor in influencing public opinion. False or misleading information can be rapidly disseminated through the platform’s sharing mechanisms, contributing to misinformation and further polarizing public discourse. The platform's challenge in moderating content and combating false information has raised concerns about its role in shaping political narratives.
+
+    * **Impact on Community Engagement**
+
+        1. Mobilization and Activism
+
+            >Despite its role in polarization, Facebook has also been instrumental in mobilizing political activism and community engagement. The platform provides a space for organizing protests, sharing petitions, and rallying support for social causes. Movements such as #BlackLivesMatter and climate change advocacy have gained traction through Facebook’s ability to connect like-minded individuals and amplify their messages.
+
+        2. Polarization and Fragmentation
+
+            >While Facebook facilitates activism, it can also contribute to the fragmentation of communities. Users may become increasingly polarized within their social networks, reducing opportunities for constructive dialogue and compromise. This fragmentation can weaken social cohesion and hinder efforts to address shared societal challenges.
+
+        3. Echo Chambers and Public Discourse
+
+            >The creation of echo chambers on Facebook can limit the diversity of viewpoints encountered by users. This environment can stifle public discourse by discouraging engagement with opposing perspectives and fostering a more polarized and less inclusive public sphere. As a result, meaningful dialogue and mutual understanding may be compromised.
+
+    * **Conclusion**
+
+        >Facebook’s influence on political polarization highlights both its impact on public opinion and its role in community engagement. While the platform’s algorithmic filtering, targeted advertising, and disinformation contribute to increasing political divides, it also serves as a tool for mobilizing activism and fostering community connections. Addressing the challenges posed by Facebook requires a nuanced approach, including improved content moderation, increased transparency, and efforts to promote diverse viewpoints. By understanding the complex dynamics of Facebook’s influence, stakeholders can work towards mitigating polarization and enhancing the positive aspects of social media engagement.
+
+<br />
+
+3. Growth of, Control of, and Access to the Internet
+
+    <i><b>Activity:</b> Create a report on the digital divide in your region. Include data on internet access, affordability, and usage patterns, and suggest measures to improve digital inclusion.</i>
+
+    <i><b>Report on the Digital Divide in Central Luzon (Region III), Philippines</b></i>
+
+    * **Introduction**
+
+        >Central Luzon (Region III) is a key region in the Philippines, comprising several provinces including Aurora, Bataan, Bulacan, Nueva Ecija, Pampanga, Tarlac, and Zambales. The digital divide in this region affects various aspects of life, including internet access, affordability, and usage patterns. This report examines the current state of digital inclusion in Central Luzon and proposes measures to bridge the gap and enhance digital access for all.
+
+    * **Current State of Digital Access**
+
+        1. Coverage and Availability
+
+            * Urban vs. Rural Disparities
+            
+                >Central Luzon exhibits notable disparities in internet access between urban and rural areas. Urban centers such as San Fernando (Pampanga), Angeles City (Pampanga), and Olongapo City (Zambales) generally have better internet coverage and higher speeds compared to rural areas and smaller towns.
+
+            * Service Providers
+                
+                >Major internet service providers in the region include PLDT, Globe Telecom, and Smart Communications. While these providers have made efforts to expand their networks, coverage in remote and less densely populated areas remains limited.
+
+        2. Internet Speed and Quality
+
+            * Speed
+                
+                >According to local reports and user feedback, internet speeds in Central Luzon vary significantly. Urban areas tend to have higher speeds, averaging around 20-30 Mbps, while rural areas often experience slower speeds due to infrastructure limitations.
+
+            * Quality
+                
+                >Connectivity issues such as intermittent outages and low bandwidth affect users in underserved areas, impacting their ability to effectively access online services and resources.
+
+    * **Affordability**
+
+        1. Cost of Internet Services
+
+            * Monthly Costs
+                
+                >The cost of internet services in Central Luzon is similar to the national average, with basic broadband plans costing between PHP 1,000 to PHP 2,000 per month. For many households, particularly in rural areas, these costs can be a significant burden.
+
+            * Prepaid and Data Packages
+            
+                >Prepaid mobile data packages are widely used, especially in areas with limited fixed broadband options. While these packages offer flexibility, they come with limitations in data allowance and speed.
+
+        2. Impact on Low-Income Households
+
+            * Accessibility
+                
+                >High internet costs limit access for low-income families, affecting their participation in digital education, remote work, and online services. This economic barrier exacerbates existing inequalities and hampers socio-economic development.
+            
+            * Digital Literacy
+                
+                >Affordability issues also impact digital literacy, as individuals may lack access to the tools and resources needed to improve their digital skills.
+
+    * **Usage Patterns**
+
+        1. Digital Adoption
+
+            * Mobile vs. Fixed Broadband
+                
+                >Mobile internet remains the primary means of connectivity for many residents in Central Luzon, particularly in rural and remote areas. Mobile data is favored due to its accessibility and lower initial costs.
+
+            * Online Activities
+                
+                >Social media platforms, such as Facebook and TikTok, are extensively used for communication and entertainment. However, access to educational resources and online services remains limited for many users.
+
+        2. Educational and Economic Impacts
+
+            * Remote Learning
+                
+                >The COVID-19 pandemic highlighted the digital divide, with students in areas with poor internet access struggling with online learning. This has long-term implications for educational outcomes and opportunities.
+
+            * Economic Participation
+                
+                >Limited internet access restricts economic activities, including remote work and online entrepreneurship. Rural areas face additional challenges in leveraging digital tools for economic growth.
+
+    * **Recommendations for Improving Digital Inclusion**
+        
+        1. Expanding Infrastructure
+
+            * Broadband Expansion
+            
+                >Invest in expanding broadband infrastructure to cover underserved and remote areas within Central Luzon. Public-private partnerships can help address infrastructure gaps and improve connectivity.
+
+            * Satellite and Wireless Technologies
+                
+                >Explore the use of satellite and wireless technologies to provide internet access in hard-to-reach areas, where traditional infrastructure is challenging to deploy.
+
+        2. Reducing Costs
+
+            * Subsidies and Pricing Models
+                
+                >Implement subsidies or low-cost internet plans for low-income households to make internet access more affordable. Providers can offer tiered pricing models to accommodate different income levels.
+            
+            * Community Programs
+            
+                >Establish community programs that provide free or subsidized internet access in public spaces, such as schools, libraries, and community centers.
+        
+        3. Enhancing Digital Literacy
+
+            * Education and Training
+                
+                >Launch digital literacy programs tailored to the needs of residents in Central Luzon. Partner with local educational institutions and organizations to deliver training on using digital tools and accessing online resources.
+            * Support Services
+                
+                >Provide technical support and resources to assist users with issues related to internet access and digital skills development.
+
+        4. Promoting Policy and Regulatory Support
+
+            * Government Initiatives
+                
+                >Advocate for government policies that support digital inclusion, such as funding for infrastructure development and regulatory reforms to encourage competition among service providers.
+
+            * Stakeholder Collaboration
+            
+                >Foster collaboration between government, private sector, and civil society organizations to create a comprehensive strategy for improving digital access and addressing the digital divide in Central Luzon.
+
+    * **Conclusion**
+
+        >The digital divide in Central Luzon presents significant challenges related to internet access, affordability, and usage patterns. Addressing these issues requires a multifaceted approach that includes expanding infrastructure, reducing costs, enhancing digital literacy, and promoting supportive policies. By implementing these measures, Central Luzon can work towards bridging the digital divide and ensuring that all residents have the opportunity to participate fully in the digital economy and society.
+
+<br />
+
+4. Gender-Related Issues in Computing
+
+    <i><b>Activity:</b> Conduct an interview with women working in the tech industry and compile their experiences and insights. Use this information to propose strategies for improving gender diversity and inclusion in computing</i>
+
+    <i><b>Interview Summary</b></i>
+
+    * **Interviewees**
+
+        - **Anna Reyes** --- Junior Software Developer
+        - **Maria Santos** --- Data Analyst
+        - **Laura Gomez** --- Quality Assurance
+
+    * **Key Insights**
+
+        1. Challenges Faced
+
+           * Gender Bias
+
+               >Anna reported that she often encounters skepticism about her technical expertise in meetings and project discussions. She also mentioned receiving less challenging tasks compared to her male counterparts.
+           
+           * Work-Life Balance
+
+               >Maria discussed the difficulty of balancing work responsibilities with family life, particularly as a single mother. She noted that flexible working arrangements would greatly benefit her.
+
+           * Lack of Representation
+
+               >Laura highlighted the lack of female role models in senior leadership positions within her company. She feels that having more women in visible leadership roles could inspire and mentor younger female employees.
+
+        2. Supportive Measures
+
+           * Mentorship Programs
+
+               >Anna emphasized the positive impact of the mentorship program at her company. Her mentor has been instrumental in guiding her career path and providing professional advice.
+           
+           * Inclusive Policies
+
+               >Maria appreciated her company’s efforts to implement gender-neutral recruitment practices and flexible work hours, which have helped her manage her work-life balance effectively.
+
+           * Professional Development
+
+               >Laura noted that access to continuous learning and development opportunities has been crucial for her career growth. Her company’s support for attending industry conferences and training sessions has been beneficial.
+    * **Proposed Strategies for Improving Gender Diversity and Inclusion**
+
+        1. Foster an Inclusive Culture
+
+            * Promote Diversity and Inclusion
+            
+                >Organizations should develop and communicate a strong commitment to diversity and inclusion. Setting clear diversity goals and measuring progress regularly can drive accountability and improvement.
+
+            * Bias Training
+            
+                >Implement comprehensive training programs to address unconscious bias and promote equitable practices in hiring, evaluations, and promotions.
+
+        2. Enhance Support Structures
+
+            * Mentorship and Sponsorship
+                
+                >Establish formal mentorship and sponsorship programs to support the career development of women. Encourage senior leaders to mentor and sponsor female employees to help them advance in their careers.
+
+            * Networking Opportunities
+            
+                >Create and support networking events and professional development opportunities tailored to women in tech. Participation in industry conferences and women-focused tech communities can foster growth and connections.
+
+        3. Implement Flexible Policies
+
+            * Work-Life Balance
+            
+                >Introduce and promote flexible working arrangements, including remote work and flexible hours, to support employees in managing both professional and personal responsibilities.
+
+            * Parental Leave
+            
+                >Provide comprehensive parental leave policies that support both mothers and fathers, enabling a more equitable distribution of family responsibilities and reducing career interruptions.
+
+        4. Promote Representation
+
+            * Role Models and Leadership
+                
+                >Highlight and celebrate the achievements of women in tech to provide role models for aspiring professionals. Increasing the representation of women in senior leadership positions can inspire and motivate others.
+
+            * Inclusive Recruitment
+            
+                >Ensure that recruitment practices are gender-neutral and actively seek to attract a diverse pool of candidates. Use blind recruitment techniques to minimize bias and enhance fairness in the hiring process.
+
+        5. Encourage Continuous Feedback
+
+            * Employee Feedback
+            
+                >Regularly solicit feedback from employees regarding diversity and inclusion initiatives. Use this feedback to make informed adjustments and improvements to existing policies and practices.
+            
+            * Evaluate Impact
+                
+                >Continuously assess the effectiveness of diversity and inclusion strategies and make necessary adjustments based on outcomes and employee input.
+
+    * **Conclusion**
+
+        >The insights from women working in the tech industry reveal both the challenges they face and the supportive measures that can facilitate their success. By fostering an inclusive culture, enhancing support structures, implementing flexible policies, promoting representation, and encouraging continuous feedback, organizations can make significant progress in improving gender diversity and inclusion in the tech industry. These strategies will help create a more equitable and innovative work environment, benefiting all employees and contributing to overall industry advancement.
+
+
+    * **Disclaimer**
+
+        >The individuals mentioned in this report are real persons and their experiences are based on actual scenarios. However, the names used are fictional. The interviewees are my coworkers, and their real names and specific details have been omitted to maintain confidentiality.
+
+<br />
+<br />
+<br />
+
+#### This concludes the SP101 Module in Computer Science. It has been a rewarding exploration of key technological concepts and their broader implications.
+
+#### - Benedict Earle Gabriel Romero Pajarillaga (BSCS)
